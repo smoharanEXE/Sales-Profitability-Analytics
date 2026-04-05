@@ -18,6 +18,19 @@ This project analyzes 50,000+ transactional sales records to evaluate revenue tr
 * Power BI – Dashboard development and visualization
 * Excel – Data validation and preprocessing
 
+Dashboard Preview
+
+ Sales & Profitability Overview
+
+![Overview](images/sales%20%26%20profitability%20overview%20dashboard.png)
+
+ Product & Profitability Analysis
+
+![Product Analysis](images/product%20%26%20profitability%20analysis.png)
+
+ Discount Impact Analysis
+
+![Discount Analysis](images/discount%20impact%20on%20profitability.png)
 
  Dashboard Structure
 
