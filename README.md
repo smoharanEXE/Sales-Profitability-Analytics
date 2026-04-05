@@ -22,15 +22,15 @@ Dashboard Preview
 
  Sales & Profitability Overview
 
-![Overview](images/sales%20%26%20profitability%20overview%20dashboard.png)
+![Overview](images/sales-profitability-overview.png)
 
  Product & Profitability Analysis
 
-![Product Analysis](images/product%20%26%20profitability%20analysis.png)
+![Product Analysis](images/product-profitability-analysis.png)
 
  Discount Impact Analysis
 
-![Discount Analysis](images/discount%20impact%20on%20profitability.png)
+![Discount Analysis](images/discount-impact-on-profitability.png)
 
  Dashboard Structure
 
