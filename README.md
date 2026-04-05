@@ -50,15 +50,7 @@ Key Insights
 * Higher discount levels significantly reduced profitability
 * Discounting identified as the primary driver of margin erosion
 
-
-Project Structure
-
-data/ → dataset  
-dashboard/ → Power BI (.pbix) file  
-images/ → dashboard screenshots  
-sql/ → SQL queries used for analysis  
-
-
+ 
  Dashboard Preview
 
 Sales & Profitability Overview
@@ -70,7 +62,6 @@ Product & Profitability Analysis
 Discount Impact on Profitability
 ![Discount Analysis](discount-impact-on-profitability.png)
 
----
 
 Conclusion
 
