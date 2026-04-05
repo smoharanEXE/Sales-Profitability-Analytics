@@ -62,13 +62,13 @@ sql/ → SQL queries used for analysis
  Dashboard Preview
 
 Sales & Profitability Overview
-![Overview](images/sales-profitability-overview.png)
+![Overview](sales-profitability-overview.png)
 
 Product & Profitability Analysis
-![Product Analysis](images/product-profitability-analysis.png)
+![Product Analysis](product-profitability-analysis.png)
 
 Discount Impact on Profitability
-![Discount Analysis](images/discount-impact-on-profitability.png)
+![Discount Analysis](discount-impact-on-profitability.png)
 
 ---
 
